@@ -14,7 +14,7 @@ export class PostListComponent implements OnInit {
       'Road Bike are best identified by their drop or turned-down and skinny tires. The downward-curving handnnnnnnnnnnnnnnn',
       'https://assets.vogue.com/photos/597a5be4ba90bc32d772dde3/master/w_1600,c_limit/00-tout-exo.jpg',
       'chuchu@test',
-      new Date()
+      new Date
     )
   ];
 
